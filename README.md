@@ -36,8 +36,11 @@ Soy un desarrollador enfocado en construir soluciones robustas y seguras. Me apa
 
 ### 📊 Mis Estadísticas de GitHub
 
-![Resumen de GitHub](https://github-readme-stats.vercel.app/api?username=srwangcr&show_icons=true&theme=tokyonight&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=srwangcr&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srwangcr&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Jurgen" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srwangcr&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+</p>
 
 ---
 
