@@ -87,4 +87,3 @@ Sistema full-stack minimalista (dark mode) para gestión de órdenes y proveedor
 ---
 
 *Fuera del código: home lab en Proxmox, gaming en Linux, y tenis de mesa cuando el compilador se pone terco.*
-```[cite: 1, 2, 3, 4, 5, 6, 7, 8, 9]
