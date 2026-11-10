@@ -72,8 +72,8 @@ Sistema full-stack minimalista (dark mode) para gestión de órdenes y proveedor
 ## 📊 Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=srwangcr&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srwangcr&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=srwangcr&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=srwangcr&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 </p>
 
 ---
